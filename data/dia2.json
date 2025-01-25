@@ -1,0 +1,73 @@
+[
+    {
+      "produto": "Fone de Ouvido Bluetooth",
+      "categoria": "Eletrônicos",
+      "quantidade": 6,
+      "venda": 1800.00,
+      "data": "2025-01-27"
+    },
+    {
+      "produto": "Cafeteira Elétrica",
+      "categoria": "Eletrodomésticos",
+      "quantidade": 3,
+      "venda": 900.00,
+      "data": "2025-01-27"
+    },
+    {
+      "produto": "Mochila Executiva",
+      "categoria": "Acessórios",
+      "quantidade": 9,
+      "venda": 1350.00,
+      "data": "2025-01-28"
+    },
+    {
+      "produto": "Guarda-Chuva",
+      "categoria": "Utilidades Domésticas",
+      "quantidade": 20,
+      "venda": 400.00,
+      "data": "2025-01-28"
+    },
+    {
+      "produto": "Monitor 24 Polegadas",
+      "categoria": "Eletrônicos",
+      "quantidade": 4,
+      "venda": 3600.00,
+      "data": "2025-01-29"
+    },
+    {
+      "produto": "Sapato Social",
+      "categoria": "Calçados",
+      "quantidade": 5,
+      "venda": 1250.00,
+      "data": "2025-01-29"
+    },
+    {
+      "produto": "Mousepad Gamer",
+      "categoria": "Acessórios",
+      "quantidade": 15,
+      "venda": 450.00,
+      "data": "2025-01-30"
+    },
+    {
+      "produto": "Chave de Fenda",
+      "categoria": "Ferramentas",
+      "quantidade": 25,
+      "venda": 625.00,
+      "data": "2025-01-30"
+    },
+    {
+      "produto": "Espelho Decorativo",
+      "categoria": "Decoração",
+      "quantidade": 3,
+      "venda": 600.00,
+      "data": "2025-01-31"
+    },
+    {
+      "produto": "Tapete de Sala",
+      "categoria": "Decoração",
+      "quantidade": 2,
+      "venda": 800.00,
+      "data": "2025-01-31"
+    }
+  ]
+  

@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.12"
 black = "^24.10.0"
 pre-commit = "^4.1.0"
+pandera = "^0.22.1"
+pandas = "^2.2.3"
+fastparquet = "^2024.11.0"
 
 
 [build-system]
